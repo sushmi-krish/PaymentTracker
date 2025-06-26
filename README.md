@@ -38,12 +38,13 @@ node server.js
 Server will start at: http://localhost:3000
 -----
 ## File Overview
-     File          | Purpose
----
- vendorPayment.js    Mongoose schema for payments
- vendor_payment.js   API route handlers
- server.js           Main Express server file
- package.json        Project metadata and dependencies
+ | File                | Purpose                             |
+| ------------------- | ----------------------------------- |
+| `vendorPayment.js`  | Mongoose schema for payment records |
+| `vendor_payment.js` | API route handlers                  |
+| `server.js`         | Main Express server configuration   |
+| `package.json`      | Project metadata & dependencies     |
+
 ----
 # API Endpoints
 | Method | Endpoint           | Description                 |
