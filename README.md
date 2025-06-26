@@ -3,11 +3,11 @@
 A RESTful Node.js and Express API for managing vendor payments. This application uses **MongoDB** to store transaction data and supports CRUD operations such as creating, updating, retrieving, and deleting vendor payments.
 ------
 # Features
-1.Create an express server and with API end points based on tracking payments use case
-2.Retrieve data, stored in the MongoDB, through API end points
-3.Add data through POST end points
-4.Update the data through UPDATE end points
-5.DELETE the data through DELETE end points
+- Create an express server and with API end points based on tracking payments use case
+- Retrieve data, stored in the MongoDB, through API end points
+- Add data through POST end points
+- Update the data through UPDATE end points
+- DELETE the data through DELETE end points
 ----
 ## Tech Stack
 - Node.js
